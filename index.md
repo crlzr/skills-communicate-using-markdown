@@ -11,3 +11,7 @@
 ``` javascript
 var myVar = "Hello, World!"
 ```
+
+- [X] Test
+- [X] Test 2
+- [ ] Finish
